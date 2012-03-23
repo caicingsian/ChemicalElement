@@ -9,7 +9,7 @@ package com.greencode.study.chemistry.view
 			super();
 			
 			this.graphics.beginFill( 0xFF0000 );
-			this.graphics.drawCircle( 50 , 50 , 20 );
+			this.graphics.drawRect( 50 , 50 , 20 , 20 );
 			this.graphics.endFill();
 		}
 	}
