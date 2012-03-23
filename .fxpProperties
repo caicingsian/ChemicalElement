@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fxpProperties abbreviated="false" authoringTool="Flex Builder" compiles="true" parentProject="21f6d6dd-0e26-4f59-a677-d900e27c4ac8" projectUUID="21f6d6dd-0e26-4f59-a677-d900e27c4ac8" pureCatalystProject="false" sdkVersion="4.6.0" uuid="f16d2ae6-a778-4aef-b40c-3b76f70953d8" version="15">
+  <projects/>
+  <src/>
+  <swc>
+    <linked location="sdkPlaceHolder" path="sdkPlaceHolder" position="0" uuid="f16d2ae6-a778-4aef-b40c-3b76f70953d8"/>
+    <linked location="G:/Home/Project/Flex/ChemicalElement/libs" path="/libs" position="1" uuid="f16d2ae6-a778-4aef-b40c-3b76f70953d8"/>
+  </swc>
+  <misc/>
+  <theme/>
+  <mxmlFormattingPrefs groupAttributesByState="true" maxLineWidth="100" mxmlAlignAttributes="true" mxmlAttributeOrder="id,userLabel,includeIn,excludeFrom,visible,x,y,z,left,right,top,bottom,width,height,minWidth,minHeight,maxWidth,maxHeight,label" mxmlKeepAttributeValuesOrganized="true"/>
+</fxpProperties>
